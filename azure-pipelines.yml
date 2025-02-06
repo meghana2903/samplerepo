@@ -1,5 +1,4 @@
 # Maven
-- task: DotNetCoreCLI@2
   inputs:
     command: 'build'
 # Build your Java project and run tests with Apache Maven.
